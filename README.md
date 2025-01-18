@@ -7,11 +7,9 @@ Welcome to my GitHub! I am **Pritam**, a **Computer Science** graduate student a
 ## **Education** 🎓  
 - **MS in Computer Science** (2024 - 2026)  
   Northeastern University, Khoury College of Computer Science, GPA: 4/4  
-  Coursework: Programming Design Paradigm (Java), Web Development, NLP  
 
 - **BTech in Electronics & Telecommunications** (2017 - 2021)  
   Sardar Patel Institute of Technology, Mumbai, GPA: 9.71/10  
-  Coursework: Data Structures and Algorithms, OOP, Operating Systems, AI & ML
 
 Feel free to explore my repositories for various projects related to software engineering, cloud infrastructure, machine learning, and more!
 
