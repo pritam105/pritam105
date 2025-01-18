@@ -4,11 +4,6 @@
 
 Welcome to my GitHub! I am **Pritam**, a **Computer Science** graduate student at **Northeastern University**, Boston. My passion lies in backend development, **AWS system design**, and building scalable **machine learning** applications. I focus on using my experience in **backend systems**, **cloud infrastructure**, and **system design** to create robust and efficient solutions.
 
-## **About Me**  
-- **Location**: Boston, USA  
-- **Contact**: pritammane105@gmail.com | +18572690750  
-- **LinkedIn**: [linkedin.com/in/pritam-mane](http://linkedin.com/in/pritam-mane)
-
 ## **Education** 🎓  
 - **MS in Computer Science** (2024 - 2026)  
   Northeastern University, Khoury College of Computer Science, GPA: 4/4  
