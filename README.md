@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Pritam Anand Mane's
+# I'm Pritam Anand Mane
 
 Welcome to my GitHub! I am **Pritam**, a **Computer Science** graduate student at **Northeastern University**, Boston. My passion lies in backend development, **AWS system design**, and building scalable **machine learning** applications. I focus on using my experience in **backend systems**, **cloud infrastructure**, and **system design** to create robust and efficient solutions.
 
