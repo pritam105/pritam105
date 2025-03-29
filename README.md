@@ -9,7 +9,16 @@ Welcome to my GitHub! I am **Pritam**, a **Computer Science** graduate student a
   Northeastern University, Khoury College of Computer Science, GPA: 4/4  
 
 - **BTech in Electronics & Telecommunications** (2017 - 2021)  
-  Sardar Patel Institute of Technology, Mumbai, GPA: 9.71/10  
+  Sardar Patel Institute of Technology, Mumbai, GPA: 9.71/10
+
+## **Work Experience** 🎓  
+- **JP Mrgan Chase** (2022 - 2024)  
+  SDE-II, Payments Technology Team
+  Skills: Java, Spring, React, AWS, Terraform, Kubernetes, NoSQl/SQL, System Design, Load Balancing, Data Streams, Jenkins
+  
+- **ICICI Lomabard General Insurance Company** (2021 - 2022)  
+  Software Developer, Insurance Team
+  Skills: Python, Django, AWS, CI/CD, Docker
 
 Feel free to explore my repositories for various projects related to software engineering, cloud infrastructure, machine learning, and more!
 
